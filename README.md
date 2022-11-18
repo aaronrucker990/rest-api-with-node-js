@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/WX4Kjzt.png" height="80%" width="80%" alt="VPN logo"/>
+<img src="https://imgur.com/a/nRO22ds" height="80%" width="80%" alt="VPN logo"/>
 </p>    
     
 <h1>Building a REST API with Node JS</h1>

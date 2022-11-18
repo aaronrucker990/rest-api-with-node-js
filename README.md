@@ -10,7 +10,9 @@ The Powershell script in this repository is responsible for parsing out Windows 
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- PowerShell: Extract RDP failed logon logs from Windows Event Viewer
+- Visual Studio Code
+- Postman
+- Node JS
 
 <h2>Operating Systems Used </h2>
 

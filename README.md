@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/WX4Kjzt.png" height="80%" width="80%" alt="VPN logo"/>
 </p>    
     
-<h1>Failed RDP Attacks to Geolocation Information (SIEM Lab)</h1>
+<h1>Building a REST API with Node JS</h1>
 
 The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.<br />
 
